@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            background-image: linear-gradient(0deg, #fb8b24, #f8f9fa, #6a994e);
+            background-size: auto;
+            font-size: 60px;
+            height: 80px;
+            width: 100%;
+            margin-top: 0px;
+        }
+        h2{
+            text-align: center;
+            background-size: auto;
+            font-size: 40px;
+            margin-top: 0px;
+            height: 100;
+            margin-top: 0px;
+            
+
+        }
+        img{
+            height: 300px;
+            width: 450px;
+            margin-top: 0px;
+        }
+        p{
+            margin-left: 500px;
+            margin-right: 40PX;
+            position: absolute;
+            text-align: justify;
+        }
+        div{
+            border-style: dotted;
+            background-image: linear-gradient(130DEG, #fF671F, #FFFFFF, #046A38 );
+            border-radius: 60px;
+            padding: 40px;
+            margin-bottom: 60px;
+        }
+    </style>
+</head>
+<body>
+   <h1 align="center">Historical places of India</h1>
+        <div>
+            <h2>Taj Mahal</h2>
+            <p> The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with construction starting in 1632 AD and completed in 1648 AD, with the mosque, the guest house and the main gateway on the south, the outer courtyard and its cloisters were added subsequently and completed in 1653 AD. The existence of several historical and Quaranic inscriptions in Arabic script have facilitated setting the chronology of Taj Mahal. For its construction, masons, stone-cutters, inlayers, carvers, painters, calligraphers, dome builders and other artisans were requisitioned from the whole of the empire and also from the Central Asia and Iran. Ustad-Ahmad Lahori was the main architect of the Taj Mahal.
+
+                The Taj Mahal is considered to be the greatest architectural achievement in the whole range of Indo-Islamic architecture. Its recognised architectonic beauty has a rhythmic combination of solids and voids, concave and convex and light shadow; such as arches and domes further increases the aesthetic aspect. The colour combination of lush green scape reddish pathway and blue sky over it show cases the monument in ever changing tints and moods. The relief work in marble and inlay with precious and semi precious stones make it a monument apart. </p>
+            <a href="https://en.wikipedia.org/wiki/Taj_Mahahal" target="_blank"> <img id="tm" src="https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg">  </a>
+        </div>
+        <div>
+            <h2>Red Fort</h2>
+            <p>The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone, it is adjacent to an older fort, the Salimgarh, built by Islam Shah Suri in 1546, with which it forms the Red Fort Complex. The private apartments consist of a row of pavilions connected by a continuous water channel, known as the Nahr-i-Behisht (Stream of Paradise). The Red Fort is considered to represent the zenith of Mughal creativity which, under the Shah Jahan, was brought to a new level of refinement. The planning of the palace is based on Islamic prototypes, but each pavilion reveals architectural elements typical of Mughal building, reflecting a fusion of Persian, Timurid and Hindu traditions The Red Fort’s innovative planning and architectural style, including the garden design, strongly influenced later buildings and gardens in Rajasthan, Delhi, Agra and further afield.</p>
+            <a href=""><img id="tm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Red_Fort_in_Delhi_03-2016_img1.jpg/1280px-Red_Fort_in_Delhi_03-2016_img1.jpg" alt=""></a>
+        </div>
+        <div>
+            <h2>Qutub Minar</h2>
+            <p>The ensemble of mosques, minars, and other structures in the Qutb Minar complex is an outstanding testimony to the architectural and artistic achievements of Islamic rulers after they first established their power in the Indian subcontinent in the 12th century. The complex, located at the southern fringe of New Delhi, illustrates the new rulers’ aspiration to transform India from Dar-al-Harb to Dar-al-Islam with the introduction of distinctive building types and forms.
+
+                Referred to as the Qutb mosque, the Quwwatu’l-Islam, meaning the Might of Islam, introduced to India the classic model of Islamic architecture that had developed in western Asia. The mosque constituted a large rectangular courtyard enclosed by arcades having carved pillars on three sides and an imposing five-arched screen marking the west. Incorporating temple elements such as the carved pillars and cladding characteristic of Hindu and Jain temples, it was completed by subsequent rulers – Qutb ud din Aibak and Shamsu’d-Din Iltutmish. Drawing references from their Ghurid homeland, they constructed a minar (minaret) at the south-eastern corner of the Quwwatu’l-Islam between 1199 and 1503, thereby completing the vocabulary of a typical classic Islamic mosque. Built of red and buff sandstone and eloquently carved with inscriptional bands, the Qutb Minar is the tallest masonry tower in India, measuring 72.5 metres high, with projecting balconies for calling all Muadhdhin to prayer. An iron pillar in the courtyard gave the mosque a unique Indian aesthetic.</p>
+            <a hrsghar tushar chauf  tushhae chayef=""><img src="https://static2.tripoto.com/media/filter/tst/img/1339317/TripDocument/1547700259_lal_quila.jpg" alt=""></a>
+        </div>
+        <div>
+        <h2>
+            Agra Fort, UP</h2>
+            <p>Agra Fort
+                Agra Fort is a historical fort in the city of Agra in India.
+                 It was the main residence of the emperors of the Mughal Dynasty till 1638,
+                  when the capital was shifted from Agra to Delhi.
+                   The Agra fort is a UNESCO World Heritage site.
+                   It is about 2.5 km northwest of its more famous sister monument, the Taj Mahal.
+                    The fort can be more accurately described as a walled city.
+                
+                After the First Battle of Panipat in 1526, the victorious Babur stayed in the fort,
+                 in the palace of Ibrahim Lodi. He later built a baoli in it.
+                  His successor, Humayun, was crowned in the fort in 1530. He was defeated at Bilgram in 1540 by Sher Shah Suri.
+                   The fort remained with the Suris till 1555, when Humayun recaptured it.
+                    Adil Shah Suri’s general, Hemu, recaptured Agra in 1556 and pursued its fleeing governor to Delhi where he met the Mughals in the Battle of Tughlaqabad.
+                     Sheesh Mahal, Agra Fort:The effect produced by lighting candles in Sheesh Mahal, Agra Fort.</p>
+                     <a href=""><img id="tm" src="https://images.thrillophilia.com/image/upload/s--FIMS32PQ--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/383/700/original/1651645919_shutterstock_1418802812.jpg.jpg"></a>
+    </div>
+    <div>
+        <h2>Golden Triangle Tour with Ajmer</h2>
+        <p>A tour filled with absolute amazement and discovery through the iconic and ancient cities of India- Delhi, Agra, and Jaipur, also popularly knows as the Golden Triangle. These 3 cities are bestowed with a beautiful amalgamation of Mughal, Persian, and Hindu Architectural buildings that reflect the rich history, glory, and grandeur.
+
+
+
+            Start off this amazing tour from the capital that houses the Humayun's Tomb - the monument that inspired the design of the Taj Mahal. Don't forget to relish your taste buds with delicious paranthas at 'Paranthe Wali Gali' in Chandni Chowk. As you move towards the historic town of Agra, the beautiful view of the ivory-white mausoleum - Taj Mahal will surely leave you spellbound, the grace it holds when the golden shimmering light touches its surface as the sun sets over the horizon is a feast to one's eyes. Breathe in the charm of Jaipur, a place known as the Pink city of India, from an adventurous cycling expedition to Nahargarh Fort to witness the pink city in the hues of orange from the top as the sun sets to tasting the flavours of Rajasthan in Chokhi Dhani while witnessing the beautiful cultural performances, the place has it all.
+            
+            </p>
+            <a href=""><img id="tm" src="https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.5,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/k9ckfx3i5ax627tz0w12kkappuw0_amber-fort-dzhaipur-radzhastkhan-indiia.jpg"></a>
+    </div>
+    <div>
+        <h2>Fatehpur Sikri, Uttar Pradesh</h2>
+        <p>Fatehpur Sikri (Hindi: [ˈfətɛɦpʊɾ ˈsiːkɾiː]) is a town in the Agra District of Uttar Pradesh, India. Situated 35.7 kilometres from the district headquarters of Agra,[3] Fatehpur Sikri itself was founded as the capital of the Mughal Empire in 1571 by Emperor Akbar, serving this role from 1571 to 1585, when Akbar abandoned it due to a campaign in Punjab and was later completely abandoned in 1610.[4]
+
+            The name of the city is derived from the village called Sikri which previously occupied the location. An Archaeological Survey of India (ASI) excavation from 1999 to 2000 indicated that there was housing, temples and commercial centres here before Akbar built his capital. The region was settled by Sungas following their expansion. It was controlled by Sikarwar Rajputs from the 7th to 16th century CE until the Battle of Khanwa (1527).
+            
+            The khanqah of Sheikh Salim Chishti existed earlier at this place. Akbar's son Jahangir was born in the village of Sikri to his favourite wife Mariam-uz-Zamani in 1569[5] and in that year Akbar began construction of a religious compound to commemorate the Sheikh who had predicted the birth. After Jahangir's second birthday, he began the construction of a walled city and imperial palace here. The city came to be known as Fatehpur Sikri, the "City of Victory", after Akbar's victorious Gujarat campaign in 1573.
+            
+            After occupying Agra in 1803, the East India Company established an administrative centre here and it remained so until 1850. In 1815, the Marquess of Hastings ordered the repair of monuments at Sikri.</p>
+            <a href=""><img id="tm" src="https://images.thrillophilia.com/image/upload/s--nzzhmM3I--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/383/703/original/1651646880_shutterstock_1078858838.jpg.jpg"></a>
+    </div>
+    <div>
+        <h2>India Gate, Delhi</h2>
+        <p>Category  Historic
+            At the centre of New Delhi stands the 42 m high India Gate, an “Arc-de-Triomphe” like archway in the middle of a crossroad. Almost similar to its French counterpart, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I. The memorial bears the names of more than 13,516 British and Indian soldiers killed in the Northwestern Frontier in the Afghan war of 1919.
+            
+            The foundation stone of India Gate was laid by His Royal Highness, the Duke of Connaught in 1921 and it was designed by Edwin Lutyens. The monument was dedicated to the nation 10 years later by the then Viceroy, Lord Irwin. Another memorial, Amar Jawan Jyoti was added much later, after India got its independence. The eternal flame burns day and night under the arch to remind the nation of soldiers who laid down their lives in the Indo-Pakistan War of December 1971.
+            
+            The entire arch stands on a low base of red Bharatpur stone and rises in stages to a huge moulding. The cornice is inscribed with the Imperial suns while both sides of the arch have INDIA, flanked by the dates MCMXIV (1914 left) and MCMXIX (1919 right). The shallow domed bowl at the top was intended to be filled with burning oil on anniversaries but this is rarely done.</p>
+    
+    <a href=""><img id="tm" src="https://images.thrillophilia.com/image/upload/s--sjfJLESI--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.5,f_auto,fl_strip_profile/v1/images/photos/000/383/715/original/1651839813_shutterstock_609509006.jpg.jpg"></a>
+    </div> 
+     <audio controls>
+        <source src="06 Jana Gana Mana (Female Vocals) 320kbps.mp3" type="audio/mpeg">
+      
+     
+</html>
